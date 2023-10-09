@@ -1,0 +1,26 @@
+#emoji{
+    width: 90vw;
+    height: 62vh;
+    overflow: auto;
+    scroll-behavior: smooth;
+    margin: 20px auto;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+#output{
+    width: 45vw;
+    height: 30vh;
+    margin: auto;
+}
+
+textarea{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.btn{
+    font-size: 16px;
+    padding: 4px;
+    cursor: pointer;
+}
